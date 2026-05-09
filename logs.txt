@@ -1,0 +1,16 @@
+2026-05-09 11:27:53,017 - ERROR - module 'clientes' has no attribute 'get_nombre'
+2026-05-09 11:27:53,018 - ERROR - name 'sala' is not defined
+2026-05-09 11:27:53,018 - ERROR - name 'equipo' is not defined
+2026-05-09 11:27:53,018 - ERROR - name 'cliente1' is not defined
+2026-05-09 11:27:53,018 - ERROR - name 'reserva4' is not defined
+2026-05-09 11:45:04,463 - ERROR - module 'clientes' has no attribute 'get_nombre'
+2026-05-09 11:45:04,464 - ERROR - name 'sala' is not defined
+2026-05-09 11:45:04,464 - ERROR - name 'equipo' is not defined
+2026-05-09 11:45:04,464 - ERROR - name 'cliente1' is not defined
+2026-05-09 11:45:04,464 - ERROR - name 'reserva4' is not defined
+2026-05-09 11:58:23,429 - ERROR - El nombre no puede estar vacío
+2026-05-09 11:58:23,429 - INFO - Reserva confirmada para Juan
+2026-05-09 11:58:23,429 - ERROR - La duración debe ser mayor que cero
+2026-05-09 11:58:23,429 - INFO - Reserva confirmada para Juan
+2026-05-09 11:58:23,429 - INFO - Reserva confirmada para Juan
+2026-05-09 11:58:23,429 - INFO - Reserva cancelada para Juan
