@@ -77,3 +77,5 @@ python main.py
 
 Juan José Rúa Muñoz
 Natalia Zapata Muñoz
+Lina Marcela Asprilla
+Darvin Smith Mosquera
