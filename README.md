@@ -76,3 +76,4 @@ python main.py
 ## Autor
 
 Juan José Rúa Muñoz
+Natalia Zapata Muñoz
